@@ -7,7 +7,7 @@
 
 ### 🏠 [Homepage](https://github.com/jeanniesarah/judy-concept)
 
-### ✨ [Demo](https://judy.netlify.app)
+### ✨ [Demo](https://judy-concept.netlify.app)
 
 ## Project setup
 
